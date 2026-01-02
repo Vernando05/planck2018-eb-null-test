@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Code and notebooks for large-scale CMB EB null tests"
+version: 1.0.0
+type: software
+license: MIT
+abstract: >
+  Analysis scripts and Jupyter notebooks used to perform large-scale CMB EB
+  null tests using Planck 2018 polarization data, as described in
+  “Constraints on large-scale CMB EB correlations from Planck polarization”.
+message: "If you use this code, please cite it as below."
+authors:
+  - given-names: Vernando
+    family-names: Simbolon
+    affiliation: Independent researcher
+    orcid: https://orcid.org/0009-0004-5040-2216
+keywords:
+  - Cosmic microwave background
+  - CMB polarization
+  - Parity-odd correlations
+  - EB power spectrum
+  - Null tests
+  - Large angular scales
+  - Planck data

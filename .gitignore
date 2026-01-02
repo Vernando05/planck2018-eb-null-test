@@ -1,0 +1,4 @@
+# Large external data
+*.fits
+*.fits.gz
+data/
