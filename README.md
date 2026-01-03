@@ -51,3 +51,8 @@ constraints.
 ## License
 
 This code is released under the MIT License. See `LICENSE` for details.
+
+## Preprint
+Simbolon, V. (2026).
+Constraints on large-scale CMB EB correlations from Planck polarization.
+Zenodo. https://doi.org/10.5281/zenodo.18136369
